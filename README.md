@@ -1,7 +1,7 @@
 # Pedro Lacerda | Industrial Automation & Embedded Systems 👋
 
 ### 🎓 Educação
-- 📚 Estudante de [Nome do seu curso - ex: Engenharia de Controle e Automação] na **Universidade Tecnológica Federal do Paraná (UTFPR)**.
+- 📚 Estudante de Tecnologia em Automação Industrial na **Universidade Tecnológica Federal do Paraná (UTFPR)**.
 - 🎯 Focado em aplicar computação de baixo nível para otimizar processos industriais e sistemas ciber-físicos.
 
 ---
@@ -22,6 +22,7 @@ Atuo na intersecção entre o hardware e o software, desenvolvendo soluções ro
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
 
