@@ -10,7 +10,6 @@
 Atuo na intersecção entre o hardware e o software, desenvolvendo soluções robustas:
 
 * **Linguagens:** Programação performática em **C** e **C++** para sistemas embarcados.
-* **Sistemas:** Experiência com RTOS, Bare Metal e integração de sensores.
 * **Conectividade:** Protocolos industriais (Modbus, MQTT, CAN) aplicados à IIoT.
 * **Automação:** Configuração de CLPs e redes industriais inteligentes.
 
