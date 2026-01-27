@@ -2,14 +2,14 @@
 
 ### 🎓 Educação
 - 📚 Estudante de Tecnologia em Automação Industrial na **Universidade Tecnológica Federal do Paraná (UTFPR)**.
-- 🎯 Focado em aplicar computação de baixo nível para otimizar processos industriais e sistemas ciber-físicos.
+- 🎯 Focado em aplicar computação de baixo nível para otimizar processos industriais e sistemas cyber-físicos.
 
 ---
 
 ### 🏭 Especialidades em Indústria 4.0
 Atuo na intersecção entre o hardware e o software, desenvolvendo soluções robustas:
 
-* **Linguagens:** Programação performática em **C** e **C++** para sistemas embarcados.
+* **Linguagens:** Programação performática em **C** para sistemas embarcados.
 * **Conectividade:** Protocolos industriais (Modbus, MQTT, CAN) aplicados à IIoT.
 * **Automação:** Configuração de CLPs e redes industriais inteligentes.
 
@@ -18,7 +18,6 @@ Atuo na intersecção entre o hardware e o software, desenvolvendo soluções ro
 ### 🧰 Tech Stack & Ferramentas
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
