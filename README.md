@@ -1,21 +1,21 @@
-# Pedro Lacerda | Industrial Automation & Embedded Systems 👋
+# Pedro Lacerda | Industrial Automation & Embedded Systems
 
-### 🎓 Educação
-- 📚 Estudante de Tecnologia em Automação Industrial na **Universidade Tecnológica Federal do Paraná (UTFPR)**.
-- 🎯 Focado em aplicar computação de baixo nível para otimizar processos industriais e sistemas cyber-físicos.
+### Educação
+- Estudante de Tecnologia em Automação Industrial na **Universidade Tecnológica Federal do Paraná (UTFPR)**.
+- Focado em aplicar computação de baixo nível para otimizar processos industriais e sistemas cyber-físicos.
 
 ---
 
-### 🏭 Especialidades em Indústria 4.0
+### Especialidades em Indústria 4.0
 Atuo na intersecção entre o hardware e o software, desenvolvendo soluções robustas:
 
-* **Linguagens:** Programação performática em **C** para sistemas embarcados.
+* **Linguagens:** Programação performática em **C** para sistemas.
 * **Conectividade:** Protocolos industriais (Modbus, MQTT, CAN) aplicados à IIoT.
-* **Automação:** Configuração de CLPs e redes industriais inteligentes.
+* **Automação:** Configuração de CLPs e redes industriais.
 
 ---
 
-### 🧰 Tech Stack & Ferramentas
+### Tech Stack & Ferramentas
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -24,7 +24,7 @@ Atuo na intersecção entre o hardware e o software, desenvolvendo soluções ro
 
 ---
 
-### 📊 Atividade no GitHub
+### Atividade no GitHub
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=saharaLarz&show_icons=true&theme=tokyonight" alt="Stats" height="150">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saharaLarz&layout=compact&theme=tokyonight" alt="Linguagens" height="150">
@@ -32,9 +32,16 @@ Atuo na intersecção entre o hardware e o software, desenvolvendo soluções ro
 
 ---
 
-### 📫 Conecte-se comigo
+### Idiomas
+- Português (Nativo)
+- English (Avançado)
+- Deutsch (Iniciante)
+
+---
+
+### Meus Contatos
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-h-lacerda-3b8434222/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedroshlacerda@gmail.com)
 
 ---
-*Orgulhosamente estudando na [UTFPR](https://www.utfpr.edu.br/)* 🎓
+*Orgulhosamente estudando na [UTFPR](https://www.utfpr.edu.br/)* 
