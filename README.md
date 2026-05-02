@@ -24,14 +24,6 @@ Atuo na intersecção entre o hardware e o software, desenvolvendo soluções ro
 
 ---
 
-### Atividade no GitHub
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=saharaLarz&show_icons=true&theme=tokyonight" alt="Stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saharaLarz&layout=compact&theme=tokyonight" alt="Linguagens" height="150">
-</p>
-
----
-
 ### Idiomas
 - Português (Nativo)
 - English (Avançado)
