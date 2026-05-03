@@ -3,7 +3,7 @@
 ### Educação
 - Estudante de Tecnologia em Automação Industrial na **Universidade Tecnológica Federal do Paraná (UTFPR)**.
 - Focado em aplicar computação de baixo nível para otimizar processos industriais e sistemas cyber-físicos.
-- Experiência de criação de placas eletrônicas, desde a projeção até a soldagem dos componentes.
+- Experiência de criação de placas eletrônicas, desde a projeção, passando pelo processo de corrosão, até a soldagem dos componentes.
 
 ---
 
